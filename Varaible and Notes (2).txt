@@ -1,0 +1,8 @@
+	Variable need to be change or update ,
+	
+	1) Subscription 
+	2) .Csv file name and its location where it is stored.
+	3) Add the csv file below column are required and  you can skip the  subscription as we have already added in the script so.
+	Format 
+	
+	SUBSCRIPTION_NAME	SUBSCRIPTION_ID	 RESOURCE_GROUP_NAME	RESOURCE_NAME	RESOURCE_TYPE
