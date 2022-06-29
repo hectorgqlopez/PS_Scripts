@@ -1,6 +1,6 @@
 #Azure Subscription I want to use
 
-$subscriptionId = "f7514983-ae98-4ee3-af9a-a6eba7a78361"
+$subscriptionId = "XXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 #Select the right Azure subscription
 
